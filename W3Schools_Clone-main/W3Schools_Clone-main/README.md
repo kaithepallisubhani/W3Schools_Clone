@@ -22,3 +22,5 @@ https://w3schools-clone-4d2c22.netlify.app/
 
 ## Tools Used 🛠️
 * <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+## Note:
+The CSS and JS files are under the files folder
